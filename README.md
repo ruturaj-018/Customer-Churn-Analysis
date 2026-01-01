@@ -136,7 +136,7 @@ Key features include:
 
 ---
 
-## 📌 Future Enhancements
+##  Future Enhancements
 
 * Build predictive churn models (Logistic Regression, Random Forest, XGBoost)
 * Handle class imbalance using SMOTE
