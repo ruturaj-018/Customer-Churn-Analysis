@@ -127,7 +127,7 @@ Key features include:
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 1. Open the notebooks in order from `02_notebooks/`
 2. Use **Google Colab** or local Jupyter environment
